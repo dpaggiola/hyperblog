@@ -1,8 +1,8 @@
 body
 {
-    color: #333;
+    color: red;
     text-align: center;
-    font-family: "Arial";
+    font-family: 'Courier New', Courier, monospace;
 }
 
 container
@@ -11,4 +11,10 @@ container
     padding: 1em;
     border: 1px solid #000;
     margin: 0 auto;
+}
+
+hyper
+{
+    font-size: 24;
+    background-color: #000;
 }
